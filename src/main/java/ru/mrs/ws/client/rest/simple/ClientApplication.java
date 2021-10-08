@@ -1,11 +1,11 @@
-package ru.mrs.rest.simple;
+package ru.mrs.ws.client.rest.simple;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cache.annotation.EnableCaching;
 //import org.springframework.cloud.netflix.hystrix.EnableHystrix;
 import org.springframework.context.ApplicationContext;
-import ru.mrs.rest.simple.service.Rest;
+import ru.mrs.ws.client.rest.simple.service.Rest;
 //import org.springframework.retry.annotation.EnableRetry;
 
 // https://github.com/ydvorzhetskiy/sb-client

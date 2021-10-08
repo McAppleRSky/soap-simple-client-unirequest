@@ -1,9 +1,9 @@
-package ru.mrs.rest.simple.service;
+package ru.mrs.ws.client.rest.simple.service;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
-import ru.mrs.rest.simple.service.plain.Site;
+import ru.mrs.ws.client.rest.simple.service.plain.Site;
 
 import java.util.Collections;
 import java.util.List;

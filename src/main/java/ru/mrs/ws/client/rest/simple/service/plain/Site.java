@@ -1,4 +1,4 @@
-package ru.mrs.rest.simple.service.plain;
+package ru.mrs.ws.client.rest.simple.service.plain;
 
 public class Site {
     private int id;

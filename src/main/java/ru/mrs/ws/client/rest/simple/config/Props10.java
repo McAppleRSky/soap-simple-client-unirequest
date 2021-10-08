@@ -1,4 +1,4 @@
-package ru.mrs.rest.simple.config;
+package ru.mrs.ws.client.rest.simple.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
